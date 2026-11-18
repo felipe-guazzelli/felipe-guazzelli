@@ -1,7 +1,8 @@
 
+
 <div align="center">
 
-# Felipe Guazzelli
+# Hi, I'm Felipe Guazzelli! 👋
 
 ### Business Intelligence & Business Analytics
 
